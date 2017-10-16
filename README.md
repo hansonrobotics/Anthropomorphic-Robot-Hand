@@ -1,6 +1,6 @@
 # Anthropomorphic Robot Hand and Arm CAD Model
 
-## Desctiption
+## Description
 
 * CAD model (SolidWorks 2017) of a pair of anthropomorphic robotics arms. Arms and hands have size and proportions of adult human upper limbs. Hands are capable of holding objects weighing up to 500 grams.
 
