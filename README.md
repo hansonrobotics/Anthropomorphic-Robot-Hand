@@ -1,6 +1,6 @@
 # Anthropomorphic Robot Hand and Arm CAD Model
 
-![](https://github.com/hansonrobotics/Anthropomorphic-Robot-Hand/blob/master/imgs/Arms_Solid_LR.png)
+![](/imgs/Arms_Solid_LR.png)
 
 ## Description
 
